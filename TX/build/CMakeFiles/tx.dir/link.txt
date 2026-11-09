@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/tx.dir/main.c.o -o tx  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSoapySDR.so.0.8.1 -lm -pthread 

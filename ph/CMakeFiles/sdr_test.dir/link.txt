@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sdr_test.dir/main.c.o -o sdr_test  -lSoapySDR -lm 

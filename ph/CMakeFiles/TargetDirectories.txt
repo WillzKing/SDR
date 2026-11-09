@@ -1,0 +1,3 @@
+/home/plutoSDR/valera/ph/CMakeFiles/sdr_test.dir
+/home/plutoSDR/valera/ph/CMakeFiles/edit_cache.dir
+/home/plutoSDR/valera/ph/CMakeFiles/rebuild_cache.dir
